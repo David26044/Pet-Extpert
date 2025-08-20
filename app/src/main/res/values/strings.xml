@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pet Adviser</string>
+    <string name="find_beer">Encontrar cervezas</string>
+
+    <!-- Beer Adviser -->
+    <string-array name="beer_colors">
+        <item>Clara</item>
+        <item>Ámbar</item>
+        <item>Oscura</item>
+        <item>Rubia</item>
+    </string-array>
+
+    <!-- Pet Adviser -->
+    <string-array name="pet_categories">
+        <item>Terriers</item>
+        <item>Cazadores</item>
+        <item>Mastines</item>
+    </string-array>
+</resources>
